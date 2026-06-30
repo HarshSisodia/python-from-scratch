@@ -13,7 +13,7 @@ a mini-project, or a small experiment.
 **Days completed:** `7 / 100`
 
 ```
-███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   7%
+███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   10%
 ```
 
 > 👉 Update the number above and add one block to the bar each time you finish a day.
@@ -31,6 +31,9 @@ a mini-project, or a small experiment.
 | 05 | Taking User Input | [`TakingUserInput.py`](TakingUserInput.py) | The `input()` function |
 | 06 | Calculator 🧮 | [`Calculator.py`](Calculator.py) | Mini-project using operators |
 | 07 | String | [`String.py`](String.py) | Mini-project using String, String character|
+| 08 | StringSlicing | [`StringSlicing.py`](StringSlicing.py) | Mini-project using String, String Slicing|
+| 09 | StringMethod | [`StringMethod.py`](StringMethod.py) | Mini-project using String, String Method|
+
  
 
 ### ➕ Template — copy this row for the next day
