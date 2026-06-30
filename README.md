@@ -33,6 +33,7 @@ a mini-project, or a small experiment.
 | 07 | String | [`String.py`](String.py) | Mini-project using String, String character|
 | 08 | StringSlicing | [`StringSlicing.py`](StringSlicing.py) | Mini-project using String, String Slicing|
 | 09 | StringMethod | [`StringMethod.py`](StringMethod.py) | Mini-project using String, String Method|
+| 10 | IF_ELSE_Condition | [`If Else Condition.py`](If Else Condition.py) | Mini-project using if-else Condition, IF_ELSE_CONDITION|
 
  
 
@@ -54,7 +55,7 @@ Tick a box (`[ ]` → `[x]`) every time you cover a topic.
 - [x] Type casting
 - [x] User input
 - [x] Operators / basic calculator
-- [ ] Conditional statements (`if` / `elif` / `else`)
+- [x] Conditional statements (`if` / `elif` / `else`)
 - [ ] Loops (`for`, `while`)
 - [ ] Lists
 - [ ] Tuples & sets
