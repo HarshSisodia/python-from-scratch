@@ -10,10 +10,10 @@ a mini-project, or a small experiment.
 
 ## 📊 Progress
 
-**Days completed:** `7 / 100`
+**Days completed:** `18 / 100`
 
 ```
-███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   10%
+███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   15%
 ```
 
 > 👉 Update the number above and add one block to the bar each time you finish a day.
@@ -34,8 +34,11 @@ a mini-project, or a small experiment.
 | 08 | StringSlicing | [`StringSlicing.py`](StringSlicing.py) | Mini-project using String, String Slicing|
 | 09 | StringMethod | [`StringMethod.py`](StringMethod.py) | Mini-project using String, String Method|
 | 10 | IF Else Condition | [`If Else Condition.py`]([If Else Condition.py]) | Mini-project using if-else Condition, IF_ELSE_CONDITION|
+| 11 | MatchStatement | [`MatchStatement.py`](MatchStatement.py) | Mini-project using MatchStatement, MatchStatement|
+| 12 | ForLoop | [`ForLoop.py`](ForLoop.py`) | Mini-project using ForLoop, ForLoop|
+| 13 | WhileLoop | [`WhileLoop.py`](WhileLoop.py`) | Mini-project using WhileLoop, WhileLoop and Emulate Do-Wile Loop|
 
- 
+
 
 ### ➕ Template — copy this row for the next day
 
@@ -56,7 +59,7 @@ Tick a box (`[ ]` → `[x]`) every time you cover a topic.
 - [x] User input
 - [x] Operators / basic calculator
 - [x] Conditional statements (`if` / `elif` / `else`)
-- [ ] Loops (`for`, `while`)
+- [x] Loops (`for`, `while`)
 - [ ] Lists
 - [ ] Tuples & sets
 - [ ] Dictionaries
