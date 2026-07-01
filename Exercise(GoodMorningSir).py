@@ -27,3 +27,11 @@ elif timestamp>= "15:00:01" and  timestamp<="19:00:00":
 
 else:
     print("Good Night Sir. Today Date is " + str(D) + " and current time is: " + timestamp +" PM")
+
+
+'''
+output:
+Today's Date is: 01/07/2026
+The Current Time is: 15:52:30
+Good Evening Sir. Today Date is 01/07/2026 and current time is: 15:52:30 PM
+'''
