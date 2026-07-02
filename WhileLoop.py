@@ -37,6 +37,6 @@ print("\nThe number is greater than 20\n")
 #How to emulate a do while loop in python
 while True:
     num=int(input("Enter the number: "))
-
+    print(num, end=", ")
     if num>10:
      break
