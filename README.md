@@ -13,7 +13,7 @@ a mini-project, or a small experiment.
 **Days completed:** `18 / 100`
 
 ```
-███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   15%
+███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   15%
 ```
 
 > 👉 Update the number above and add one block to the bar each time you finish a day.
@@ -60,7 +60,7 @@ Tick a box (`[ ]` → `[x]`) every time you cover a topic.
 - [x] Operators / basic calculator
 - [x] Conditional statements (`if` / `elif` / `else`)
 - [x] Loops (`for`, `while`)
-- [ ] Lists
+- [x] Lists
 - [ ] Tuples & sets
 - [ ] Dictionaries
 - [ ] Functions
