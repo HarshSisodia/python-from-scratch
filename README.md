@@ -13,7 +13,7 @@ a mini-project, or a small experiment.
 **Days completed:** `18 / 100`
 
 ```
-███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   15%
+█████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   19%
 ```
 
 > 👉 Update the number above and add one block to the bar each time you finish a day.
@@ -37,6 +37,8 @@ a mini-project, or a small experiment.
 | 11 | MatchStatement | [`MatchStatement.py`](MatchStatement.py) | Mini-project using MatchStatement, MatchStatement|
 | 12 | ForLoop | [`ForLoop.py`](ForLoop.py`) | Mini-project using ForLoop, ForLoop|
 | 13 | WhileLoop | [`WhileLoop.py`](WhileLoop.py`) | Mini-project using WhileLoop, WhileLoop and Emulate Do-Wile Loop|
+| 14 | IntroductionToList | [`IntroductionToList.py`](IntroductionToList.py`) | Introduction To List, List|
+| 15 | ListMethods | [`ListMethod.py`](ListMethod.py`) | List-Methods, Methods of List|
 
 
 
