@@ -1,10 +1,8 @@
 # 🐍 python-from-scratch
 
-> My journey of learning Python in 100 days.
+This repository is where I upload my Python practice code while learning Python step by step.
 
-A daily log of everything I build and learn while going from Python fundamentals to more advanced concepts.
-
-This repository contains my practice files, exercises, and mini-projects. My goal is to improve my Python programming skills through consistent hands-on practice and by building small projects using the concepts I learn.
+I started this journey to improve my Python basics and programming logic. I try to learn a new concept, practice it, and build small programs using what I have learned.
 
 ---
 
@@ -12,7 +10,7 @@ This repository contains my practice files, exercises, and mini-projects. My goa
 
 **Days completed: 27 / 100**
 
-`████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` **27%**
+`██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░` **27%**
 
 ---
 
@@ -21,103 +19,75 @@ This repository contains my practice files, exercises, and mini-projects. My goa
 | Day | Topic | File | What I Learned |
 |-----|-------|------|----------------|
 | 01 | The Quiet Climb — Poem | `main.py` | Printing text using `print()` |
-| 02 | Print & Comments | `PrintAndComments.py` | `print()` basics and writing comments |
-| 03 | Variables & Data Types | `VariableAndDataType.py` | `int`, `float`, `str`, and `bool` |
-| 04 | Type Casting | `TypeCasting.py` | Converting between different data types |
-| 05 | Taking User Input | `TakingUserInput.py` | Taking input using the `input()` function |
-| 06 | Calculator | `Calculator.py` | Mini-project using operators and user input |
-| 07 | Strings | `String.py` | Working with strings and basic string operations |
-| 08 | String Slicing | `StringSlicing.py` | Accessing and slicing parts of strings |
-| 09 | String Methods | `StringMethod.py` | Using built-in Python string methods |
-| 10 | If-Else Conditions | `If Else Condition.py` | Decision-making using `if`, `elif`, and `else` |
-| 11 | Match Statement | `MatchStatement.py` | Using Python `match-case` statements |
-| 12 | For Loop | `ForLoops.py` | Repeating operations using `for` loops |
-| 13 | While Loop | `WhileLoop.py` | Using `while` loops and emulating do-while logic |
-| 14 | Introduction to Lists | `IntroductionToList.py` | Creating, accessing, and working with lists |
-| 15 | List Methods | `ListMethod.py` | Using built-in methods to modify and manage lists |
-| 16 | Break & Continue | `BreakAndContinue.py` | Controlling loop execution using `break` and `continue` |
-| 17 | Functions | `Function.py` | Creating and calling reusable functions |
-| 18 | Function Arguments | `FunctionArgument.py` | Passing data to functions using arguments |
+| 02 | Print & Comments | `PrintAndComments.py` | Basic use of `print()` and comments |
+| 03 | Variables & Data Types | `VariableAndDataType.py` | Learned about different Python data types |
+| 04 | Type Casting | `TypeCasting.py` | Converting one data type into another |
+| 05 | Taking User Input | `TakingUserInput.py` | Taking input from the user |
+| 06 | Calculator | `Calculator.py` | Built a basic calculator |
+| 07 | Strings | `String.py` | Learned the basics of strings |
+| 08 | String Slicing | `StringSlicing.py` | Accessing different parts of a string |
+| 09 | String Methods | `StringMethod.py` | Practiced different string methods |
+| 10 | If-Else Conditions | `If Else Condition.py` | Making decisions using `if`, `elif`, and `else` |
+| 11 | Match Statement | `MatchStatement.py` | Learned how `match-case` works |
+| 12 | For Loop | `ForLoops.py` | Practiced `for` loops |
+| 13 | While Loop | `WhileLoop.py` | Practiced `while` loops |
+| 14 | Introduction to Lists | `IntroductionToList.py` | Learned how to create and use lists |
+| 15 | List Methods | `ListMethod.py` | Practiced different list methods |
+| 16 | Break & Continue | `BreakAndContinue.py` | Learned how `break` and `continue` work |
+| 17 | Functions | `Function.py` | Learned how to create and call functions |
+| 18 | Function Arguments | `FunctionArgument.py` | Learned how to pass arguments to functions |
 
 ---
 
-## 🎮 Mini Projects
+## 🎮 Projects
 
-### 🧮 Basic Calculator
+### 🧮 Calculator
 
-A command-line calculator created using Python fundamentals.
+A basic calculator that I built while practicing Python operators, functions, user input, and conditions.
 
-**Concepts used:**
-- User input
-- Functions
-- Operators
-- Conditional statements
+---
 
-### 💰 Kaun Banega Crorepati — Version 1
+### 💰 Kaun Banega Crorepati
 
-A command-line quiz game inspired by Kaun Banega Crorepati.
+I built a simple command-line KBC game to practice the Python concepts I had learned.
 
-**Features:**
-- Multiple questions and options
-- User input validation using `.strip()` and `.lower()`
-- Prize money system
-- Game-over logic
-- Questions handled using loops and lists
+In the first version, I added questions, answers, a prize money system, and game-over logic.
 
-**Concepts used:**
-- Lists
-- `for` loops
-- `if-elif-else`
-- `break`
-- Functions
-- User input
+After that, I upgraded the project and added:
 
-### 💰 Kaun Banega Crorepati — Version 2
-
-An upgraded version of the original KBC mini-project.
-
-**New Features:**
 - Increasing prize money
-- Quit game option
+- Quit option
 - 50-50 lifeline
-- Lifeline can only be used once
-- Nested `for` and `while` loops
-- Improved game flow
-- Case-insensitive user input
+- One-time use of the 50-50 lifeline
+- Better input handling
 
-**Concepts used:**
-- Functions
-- Lists
-- Nested loops
-- Boolean variables
-- `break` and `return`
-- String methods
-- Conditional statements
+While building this project, I practiced lists, loops, functions, conditions, `break`, `return`, boolean variables, and string methods.
 
 ---
 
-## ✅ Concepts Checklist
+## ✅ Concepts Covered
 
-- [x] `print()` and output
-- [x] Comments
-- [x] Variables and data types
-- [x] Type casting
-- [x] User input
+- [x] Print and Comments
+- [x] Variables and Data Types
+- [x] Type Casting
+- [x] User Input
 - [x] Operators
-- [x] Conditional statements (`if / elif / else`)
-- [x] Match-case statements
-- [x] Loops (`for / while`)
-- [x] `break` and `continue`
+- [x] If-Else Conditions
+- [x] Match-Case
+- [x] For Loops
+- [x] While Loops
+- [x] Break and Continue
 - [x] Lists
-- [x] List methods
+- [x] List Methods
+- [x] Strings and String Methods
 - [x] Functions
-- [x] Function arguments
-- [ ] Tuples and sets
+- [x] Function Arguments
+- [ ] Tuples and Sets
 - [ ] Dictionaries
-- [ ] File handling
-- [ ] Error and exception handling
-- [ ] Object-Oriented Programming (OOP)
-- [ ] Modules and libraries
+- [ ] File Handling
+- [ ] Exception Handling
+- [ ] Object-Oriented Programming
+- [ ] Modules and Libraries
 
 ---
 
@@ -127,3 +97,49 @@ Make sure Python is installed:
 
 ```bash
 python --version
+```
+
+Clone the repository:
+
+```bash
+git clone YOUR_REPOSITORY_URL
+```
+
+Open the project folder:
+
+```bash
+cd python-from-scratch
+```
+
+Run any Python file:
+
+```bash
+python filename.py
+```
+
+---
+
+## 🛠️ Tools
+
+- Python 3
+- VS Code
+- Git
+- GitHub
+
+---
+
+## 🎯 My Goal
+
+My goal is to stay consistent with Python and improve my programming logic by practicing regularly.
+
+Instead of only watching tutorials, I am trying to write code myself, make mistakes, fix them, and build small projects using the concepts I learn.
+
+I will keep updating this repository as I continue learning new topics.
+
+---
+
+## 👤 Author
+
+**Harsh Sisodia**
+
+Just learning Python, writing code, fixing bugs, and trying to improve every day.
