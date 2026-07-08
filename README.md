@@ -10,7 +10,7 @@ This repository contains my practice files, exercises, and mini-projects. My goa
 
 ## 📊 Progress
 
-**Days completed: 18 / 100**
+**Days completed: 27 / 100**
 
 `████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` **27%**
 
