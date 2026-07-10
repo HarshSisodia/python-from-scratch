@@ -10,6 +10,7 @@ txt=f"The price {Price:.2f} of Orange"
 print(txt) #Output:- The price 49.10 of Orange
 
 print((f"{3*30}")) #90
+print(type(f"{3*30}")) #<class 'str'>
 
 #if i want my string can be shown like :- "hey my name is {} and I am from {}" so we can use like below:-
 val1=f"hey my name is {{name}} and I am from {{Country}}"
