@@ -10,7 +10,7 @@ I started this journey to improve my Python basics and programming logic. I try 
 
 **Days completed: 27 / 100**
 
-`██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░` **27%**
+`████████████████░░░░░░░░░░░░░░░░░░░░░░░░` **31%**
 
 ---
 
@@ -36,6 +36,7 @@ I started this journey to improve my Python basics and programming logic. I try 
 | 16 | Break & Continue | `BreakAndContinue.py` | Learned how `break` and `continue` work |
 | 17 | Functions | `Function.py` | Learned how to create and call functions |
 | 18 | Function Arguments | `FunctionArgument.py` | Learned how to pass arguments to functions |
+| 19 | Sets | `Sets.py` | Learned how to create and call Sets |
 
 ---
 
@@ -82,7 +83,7 @@ While building this project, I practiced lists, loops, functions, conditions, `b
 - [x] Strings and String Methods
 - [x] Functions
 - [x] Function Arguments
-- [ ] Tuples and Sets
+- [x] Tuples and Sets
 - [ ] Dictionaries
 - [ ] File Handling
 - [ ] Exception Handling
