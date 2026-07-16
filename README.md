@@ -8,7 +8,7 @@ I started this journey to improve my Python basics and programming logic. I try 
 
 ## 📊 Progress
 
-**Days completed: 27 / 100**
+**Days completed: 34 / 100**
 
 `████████████████████░░░░░░░░░░░░░░░░░░░░░` **35%**
 
