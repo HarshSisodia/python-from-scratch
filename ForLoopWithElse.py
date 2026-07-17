@@ -1,3 +1,4 @@
+# In Python, we can use an else block with a for loop; it executes when the loop completes normally without a break.
 for i in range(5):
     print(i)
 else:
