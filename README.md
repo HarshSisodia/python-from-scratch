@@ -10,7 +10,7 @@ I started this journey to improve my Python basics and programming logic. I try 
 
 **Days completed: 34 / 100**
 
-`████████████████████░░░░░░░░░░░░░░░░░░░░░` **35%**
+`█████████████████████░░░░░░░░░░░░░░░░░░░` **39%**
 
 ---
 
@@ -40,6 +40,10 @@ I started this journey to improve my Python basics and programming logic. I try 
 | 20 | Sets Method | `SetsMethods.py` | Methods of Sets |
 | 21 | Dictionary | `Dictionary.py` | Learned how to create and call Dictionary |
 | 22 | Dictionary Methods | `DictionaryMethod.py` | Methods of Dictionary|
+| 23 | Exception Handling | `ExceptionHandling.py` | Exception Handling|
+| 24 | Recursion | `Recursion.py` | Recursion|
+| 25 | Custom Error | `CustomError.py` | Custom Error|
+
 
 ---
 
@@ -89,7 +93,7 @@ While building this project, I practiced lists, loops, functions, conditions, `b
 - [x] Tuples and Sets
 - [x] Dictionaries
 - [ ] File Handling
-- [ ] Exception Handling
+- [x] Exception Handling
 - [ ] Object-Oriented Programming
 - [ ] Modules and Libraries
 
