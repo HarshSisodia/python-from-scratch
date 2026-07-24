@@ -10,7 +10,7 @@ I started this journey to improve my Python basics and programming logic. I try 
 
 **Days completed: 34 / 100**
 
-`█████████████████████░░░░░░░░░░░░░░░░░░░` **39%**
+`█████████████████████░░░░░░░░░░░░░░░░░░░` **42%**
 
 ---
 
@@ -43,6 +43,8 @@ I started this journey to improve my Python basics and programming logic. I try 
 | 23 | Exception Handling | `ExceptionHandling.py` | Exception Handling|
 | 24 | Recursion | `Recursion.py` | Recursion|
 | 25 | Custom Error | `CustomError.py` | Custom Error|
+| 26 | Short Hand(if-else) | `ShortHand-If-Else.py` | How to write the short hand (if-else)|
+| 27 | Enumerate Function | `EnumerateFunction.py` | How to use Enumerate Function|
 
 
 ---
