@@ -45,6 +45,7 @@ I started this journey to improve my Python basics and programming logic. I try 
 | 25 | Custom Error | `CustomError.py` | Custom Error|
 | 26 | Short Hand(if-else) | `ShortHand-If-Else.py` | How to write the short hand (if-else)|
 | 27 | Enumerate Function | `EnumerateFunction.py` | How to use Enumerate Function|
+| 28 | Virtual Environment | `VirtualEnvironment.py` | Making a Virtual Environment in a Local System and use Multiple Packages|
 
 
 ---
