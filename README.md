@@ -10,7 +10,7 @@ I started this journey to improve my Python basics and programming logic. I try 
 
 **Days completed: 34 / 100**
 
-`█████████████████████░░░░░░░░░░░░░░░░░░░` **42%**
+`█████████████████████░░░░░░░░░░░░░░░░░░░` **45%**
 
 ---
 
@@ -46,6 +46,8 @@ I started this journey to improve my Python basics and programming logic. I try 
 | 26 | Short Hand(if-else) | `ShortHand-If-Else.py` | How to write the short hand (if-else)|
 | 27 | Enumerate Function | `EnumerateFunction.py` | How to use Enumerate Function|
 | 28 | Virtual Environment | `VirtualEnvironment.py` | Making a Virtual Environment in a Local System and use Multiple Packages|
+| 29 | How Import Work | `HowImportWork.py` | How to use of module import|
+| 30 | If name == main in python | `If name == main in python.py` | How to use __main__|
 
 
 ---
