@@ -1,90 +1,172 @@
 # 🐍 python-from-scratch
 
-This repository is where I upload my Python practice code while learning Python step by step.
+Welcome to my Python learning repository!
 
-I started this journey to improve my Python basics and programming logic. I try to learn a new concept, practice it, and build small programs using what I have learned.
+This repository documents my journey of learning Python from scratch. I'm following the **CodeWithHarry – 100 Days of Code** Python course and uploading my daily practice, exercises, and projects as I learn new concepts.
+
+My goal isn't just to complete the course—it's to build strong programming fundamentals, improve my problem-solving skills, and become comfortable writing Python code on my own.
+
+Every file in this repository represents something new I've learned, practiced, or built.
 
 ---
 
 ## 📊 Progress
 
-**Days completed: 34 / 100**
+**Days Completed:** **48 / 100**
 
-`█████████████████████░░░░░░░░░░░░░░░░░░░` **45%**
+`█████████████████████░░░░░░░░░░░░░░░░░░░`
+
+**48% Complete**
 
 ---
 
-## 🗓️ Daily Log
+# 🗓️ Daily Learning Log
 
 | Day | Topic | File | What I Learned |
 |-----|-------|------|----------------|
 | 01 | The Quiet Climb — Poem | `main.py` | Printing text using `print()` |
 | 02 | Print & Comments | `PrintAndComments.py` | Basic use of `print()` and comments |
-| 03 | Variables & Data Types | `VariableAndDataType.py` | Learned about different Python data types |
+| 03 | Variables & Data Types | `VariableAndDataType.py` | Understanding variables and different data types |
 | 04 | Type Casting | `TypeCasting.py` | Converting one data type into another |
-| 05 | Taking User Input | `TakingUserInput.py` | Taking input from the user |
-| 06 | Calculator | `Calculator.py` | Built a basic calculator |
-| 07 | Strings | `String.py` | Learned the basics of strings |
-| 08 | String Slicing | `StringSlicing.py` | Accessing different parts of a string |
-| 09 | String Methods | `StringMethod.py` | Practiced different string methods |
-| 10 | If-Else Conditions | `If Else Condition.py` | Making decisions using `if`, `elif`, and `else` |
-| 11 | Match Statement | `MatchStatement.py` | Learned how `match-case` works |
-| 12 | For Loop | `ForLoops.py` | Practiced `for` loops |
+| 05 | Taking User Input | `TakingUserInput.py` | Receiving input from the user |
+| 06 | Calculator | `Calculator.py` | Built a simple calculator using operators |
+| 07 | Strings | `String.py` | Introduction to Python strings |
+| 08 | String Slicing | `StringSlicing.py` | Accessing parts of a string |
+| 09 | String Methods | `StringMethod.py` | Practiced commonly used string methods |
+| 10 | If-Else Conditions | `If Else Condition.py` | Decision making using conditions |
+| 11 | Match Statement | `MatchStatement.py` | Learned Python's `match-case` statement |
+| 12 | For Loop | `ForLoops.py` | Iterating using `for` loops |
 | 13 | While Loop | `WhileLoop.py` | Practiced `while` loops |
-| 14 | Introduction to Lists | `IntroductionToList.py` | Learned how to create and use lists |
-| 15 | List Methods | `ListMethod.py` | Practiced different list methods |
-| 16 | Break & Continue | `BreakAndContinue.py` | Learned how `break` and `continue` work |
-| 17 | Functions | `Function.py` | Learned how to create and call functions |
-| 18 | Function Arguments | `FunctionArgument.py` | Learned how to pass arguments to functions |
-| 19 | Sets | `Sets.py` | Learned how to create and call Sets |
-| 20 | Sets Method | `SetsMethods.py` | Methods of Sets |
-| 21 | Dictionary | `Dictionary.py` | Learned how to create and call Dictionary |
-| 22 | Dictionary Methods | `DictionaryMethod.py` | Methods of Dictionary|
-| 23 | Exception Handling | `ExceptionHandling.py` | Exception Handling|
-| 24 | Recursion | `Recursion.py` | Recursion|
-| 25 | Custom Error | `CustomError.py` | Custom Error|
-| 26 | Short Hand(if-else) | `ShortHand-If-Else.py` | How to write the short hand (if-else)|
-| 27 | Enumerate Function | `EnumerateFunction.py` | How to use Enumerate Function|
-| 28 | Virtual Environment | `VirtualEnvironment.py` | Making a Virtual Environment in a Local System and use Multiple Packages|
-| 29 | How Import Work | `HowImportWork.py` | How to use of module import|
-| 30 | If name == main in python | `If name == main in python.py` | How to use __main__|
-
-
----
-
-## 🎮 Projects
-
-### 🧮 Calculator
-
-A basic calculator that I built while practicing Python operators, functions, user input, and conditions.
+| 14 | Introduction to Lists | `IntroductionToList.py` | Creating and using lists |
+| 15 | List Methods | `ListMethod.py` | Built-in list operations |
+| 16 | Break & Continue | `BreakAndContinue.py` | Loop control statements |
+| 17 | Functions | `Function.py` | Creating and calling functions |
+| 18 | Function Arguments | `FunctionArgument.py` | Passing arguments to functions |
+| 19 | Sets | `Sets.py` | Introduction to Sets |
+| 20 | Sets Methods | `SetsMethods.py` | Working with Set methods |
+| 21 | Dictionary | `Dictionary.py` | Creating and accessing dictionaries |
+| 22 | Dictionary Methods | `DictionaryMethod.py` | Dictionary operations |
+| 23 | Exception Handling | `ExceptionHandling.py` | Handling errors using try-except |
+| 24 | Recursion | `Recursion.py` | Understanding recursive functions |
+| 25 | Custom Error | `CustomError.py` | Raising custom exceptions |
+| 26 | Short Hand (If-Else) | `ShortHand-If-Else.py` | Python's shorthand conditional expressions |
+| 27 | Enumerate Function | `EnumerateFunction.py` | Using `enumerate()` efficiently |
+| 28 | Virtual Environment | `VirtualEnvironment.py` | Creating and managing virtual environments |
+| 29 | How Import Works | `HowImportWork.py` | Understanding modules and imports |
+| 30 | If `__name__ == "__main__"` | `If name == main in python.py` | Purpose of the `__main__` block |
+| 31 | Local & Global Variables | `Local&Global Variable.py` | Scope of variables |
+| 32 | OS Module | `os_Module.py` | Using Python's OS module |
+| 33 | Random Module | `RandomModule.py` | Generating random values using Python |
+| 34 | Secret Code Language | `SecretCodeLanguage.py` | Built a message encoder and decoder using string manipulation |
 
 ---
 
-### 💰 Kaun Banega Crorepati
+# 🎮 Projects
 
-I built a simple command-line KBC game to practice the Python concepts I had learned.
+## 🧮 Calculator
 
-In the first version, I added questions, answers, a prize money system, and game-over logic.
+A beginner-friendly calculator that performs basic arithmetic operations.
 
-After that, I upgraded the project and added:
+### Concepts Used
 
-- Increasing prize money
-- Quit option
-- 50-50 lifeline
-- One-time use of the 50-50 lifeline
-- Better input handling
-
-While building this project, I practiced lists, loops, functions, conditions, `break`, `return`, boolean variables, and string methods.
+- Variables
+- User Input
+- Arithmetic Operators
+- Functions
+- Conditional Statements
 
 ---
 
-## ✅ Concepts Covered
+## 💰 Kaun Banega Crorepati (KBC Game)
+
+A command-line version of the famous **Kaun Banega Crorepati (KBC)** game built while learning Python.
+
+The first version included:
+
+- Multiple-choice questions
+- Prize money system
+- Correct answer validation
+- Game over logic
+
+Later, I improved the project by adding:
+
+- ✅ 50-50 Lifeline
+- ✅ One-time lifeline usage
+- ✅ Quit option
+- ✅ Better input validation
+- ✅ Improved game flow
+
+### Concepts Used
+
+- Lists
+- Functions
+- Loops
+- Conditional Statements
+- Boolean Variables
+- String Methods
+- `break`
+- `return`
+
+---
+
+## 🔐 Secret Code Language
+
+A fun Python project that converts a normal message into a secret coded message and can decode it back to its original form.
+
+The program asks whether the user wants to **encode** or **decode** a message.
+
+### How Encoding Works
+
+If a word contains **3 or more characters**, the program:
+
+- Removes the first character
+- Moves it to the end
+- Adds one random letter at the beginning
+- Adds one random letter at the end
+
+Example:
+
+```
+Hello
+```
+
+becomes something like
+
+```
+xelloHy
+```
+
+(Random letters change every time.)
+
+If a word has fewer than **3 characters**, it is simply reversed.
+
+### How Decoding Works
+
+During decoding, the program removes the extra random characters and restores the original word.
+
+### Concepts Used
+
+- String Manipulation
+- Random Module
+- String Module
+- Lists
+- Loops
+- Conditional Statements
+- User Input
+- Basic Encoding & Decoding Logic
+
+---
+
+# ✅ Concepts Covered
 
 - [x] Print and Comments
 - [x] Variables and Data Types
 - [x] Type Casting
 - [x] User Input
 - [x] Operators
+- [x] Strings
+- [x] String Slicing
+- [x] String Methods
 - [x] If-Else Conditions
 - [x] Match-Case
 - [x] For Loops
@@ -92,33 +174,44 @@ While building this project, I practiced lists, loops, functions, conditions, `b
 - [x] Break and Continue
 - [x] Lists
 - [x] List Methods
-- [x] Strings and String Methods
 - [x] Functions
 - [x] Function Arguments
-- [x] Tuples and Sets
+- [x] Sets
 - [x] Dictionaries
-- [ ] File Handling
 - [x] Exception Handling
+- [x] Recursion
+- [x] Custom Exceptions
+- [x] Shorthand If-Else
+- [x] Enumerate Function
+- [x] Virtual Environment
+- [x] Modules and Imports
+- [x] `__main__`
+- [x] Local & Global Variables
+- [x] OS Module
+- [x] Random Module
+- [x] Basic Encoding & Decoding Logic
+- [ ] File Handling
 - [ ] Object-Oriented Programming
-- [ ] Modules and Libraries
+- [ ] Regular Expressions
+- [ ] Advanced Modules
 
 ---
 
-## 🚀 How to Run
+# 🚀 How to Run
 
-Make sure Python is installed:
+Check your Python version:
 
 ```bash
 python --version
 ```
 
-Clone the repository:
+Clone this repository:
 
 ```bash
 git clone YOUR_REPOSITORY_URL
 ```
 
-Open the project folder:
+Go to the project folder:
 
 ```bash
 cd python-from-scratch
@@ -132,27 +225,27 @@ python filename.py
 
 ---
 
-## 🛠️ Tools
+# 🛠️ Tools Used
 
 - Python 3
-- VS Code
+- Visual Studio Code
 - Git
 - GitHub
 
 ---
 
-## 🎯 My Goal
+# 🎯 My Goal
 
-My goal is to stay consistent with Python and improve my programming logic by practicing regularly.
+I'm using this repository as a learning journal to track my progress throughout the **100 Days of Python** journey.
 
-Instead of only watching tutorials, I am trying to write code myself, make mistakes, fix them, and build small projects using the concepts I learn.
+Rather than just watching tutorials, I believe the best way to learn programming is by writing code, experimenting with new ideas, making mistakes, fixing bugs, and building small projects along the way.
 
-I will keep updating this repository as I continue learning new topics.
+I'll continue updating this repository as I learn new concepts and complete more projects.
 
 ---
 
-## 👤 Author
+# 👤 Author
 
 **Harsh Sisodia**
 
-Just learning Python, writing code, fixing bugs, and trying to improve every day.
+> Learning Python one day at a time, building projects, solving problems, and improving with every commit. 🚀
