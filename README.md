@@ -58,6 +58,7 @@ Every file in this repository represents something new I've learned, practiced, 
 | 32 | OS Module | `os_Module.py` | Using Python's OS module |
 | 33 | Random Module | `RandomModule.py` | Generating random values using Python |
 | 34 | Secret Code Language | `SecretCodeLanguage.py` | Built a message encoder and decoder using string manipulation |
+| 35 | File IO in python | `File-IO-Python.py` | How work with File IO in python |
 
 ---
 
