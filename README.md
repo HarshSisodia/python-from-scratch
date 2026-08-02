@@ -12,7 +12,7 @@ Every file in this repository represents something new I've learned, practiced, 
 
 ## 📊 Progress
 
-**Days Completed:** **48 / 100**
+**Days Completed:** **51 / 100**
 
 `█████████████████████░░░░░░░░░░░░░░░░░░░`
 
@@ -59,6 +59,8 @@ Every file in this repository represents something new I've learned, practiced, 
 | 33 | Random Module | `RandomModule.py` | Generating random values using Python |
 | 34 | Secret Code Language | `SecretCodeLanguage.py` | Built a message encoder and decoder using string manipulation |
 | 35 | File IO in python | `File-IO-Python.py` | How work with File IO in python |
+| 36 | File IO in python(readline & writeline) | `File-IO-readline & writeline Function.py` | How work with File IO-readline and writeline methods |
+| 37 | File IO in python(seek,tell and truncate) | `file-IO-seek & tell Method.py` | How work with File IO-seek,tell and truncate methods |
 
 ---
 
