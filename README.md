@@ -12,7 +12,7 @@ Every file in this repository represents something new I've learned, practiced, 
 
 ## 📊 Progress
 
-**Days Completed:** **51 / 100**
+**Days Completed:** **55 / 100**
 
 `█████████████████████░░░░░░░░░░░░░░░░░░░`
 
@@ -61,6 +61,10 @@ Every file in this repository represents something new I've learned, practiced, 
 | 35 | File IO in python | `File-IO-Python.py` | How work with File IO in python |
 | 36 | File IO in python(readline & writeline) | `File-IO-readline & writeline Function.py` | How work with File IO-readline and writeline methods |
 | 37 | File IO in python(seek,tell and truncate) | `file-IO-seek & tell Method.py` | How work with File IO-seek,tell and truncate methods |
+| 38 | Lambda Function in python | `lambda Function.py` | How to use lambda function in python |
+| 39 | map,filter and reduce python | `map,filter & reduce.py` | How to use map,filter and reduce function in python |
+| 40 | 'is' vs '==' in  python | `is vs == in python.py` | How to work with 'is' and '==' in python|
+| 41 | Exercise(Snake-Gun-Water) game in python | `Exercise(Snake-Gun-Water game).py` | Exercise(Snake-Gun-Water game) in python |
 
 ---
 
