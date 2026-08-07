@@ -12,7 +12,7 @@ Every file in this repository represents something new I've learned, practiced, 
 
 ## 📊 Progress
 
-**Days Completed:** **55 / 100**
+**Days Completed:** **57 / 100**
 
 `█████████████████████░░░░░░░░░░░░░░░░░░░`
 
@@ -65,6 +65,8 @@ Every file in this repository represents something new I've learned, practiced, 
 | 39 | map,filter and reduce python | `map,filter & reduce.py` | How to use map,filter and reduce function in python |
 | 40 | 'is' vs '==' in  python | `is vs == in python.py` | How to work with 'is' and '==' in python|
 | 41 | Exercise(Snake-Gun-Water) game in python | `Exercise(Snake-Gun-Water game).py` | Exercise(Snake-Gun-Water game) in python |
+| 42 | Introduction Of OOPS | `Intro_OOPS.py` | Intro of OOPS |
+| 43 | Classes & Objects | `Classes&Objects.py` | How to create classes and Objects in python |
 
 ---
 
