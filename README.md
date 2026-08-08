@@ -12,7 +12,7 @@ Every file in this repository represents something new I've learned, practiced, 
 
 ## 📊 Progress
 
-**Days Completed:** **57 / 100**
+**Days Completed:** **58 / 100**
 
 `█████████████████████░░░░░░░░░░░░░░░░░░░`
 
@@ -67,6 +67,7 @@ Every file in this repository represents something new I've learned, practiced, 
 | 41 | Exercise(Snake-Gun-Water) game in python | `Exercise(Snake-Gun-Water game).py` | Exercise(Snake-Gun-Water game) in python |
 | 42 | Introduction Of OOPS | `Intro_OOPS.py` | Intro of OOPS |
 | 43 | Classes & Objects | `Classes&Objects.py` | How to create classes and Objects in python |
+| 44 | How to make Constructors in python | `Constructor In Python.py` | Constructor in Python |
 
 ---
 
